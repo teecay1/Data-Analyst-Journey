@@ -23,9 +23,10 @@ The **PL-300** certification validates skills in data preparation, modeling, vis
 9. Design Power BI reports | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/ZBLU78Q2?sharingId=E67E07F5CF6E92D8
 10. Configure Power BI report filters | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/H74T5G68?sharingId=E67E07F5CF6E92D8
 11. Introduction to end-to-end analytics using Microsoft Fabric | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/W2S5LP7N?sharingId=E67E07F5CF6E92D8
-12. Perform analytics in Power BI |https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/NVLZ7WTF?sharingId=E67E07F5CF6E92D8
+12. Perform analytics in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/NVLZ7WTF?sharingId=E67E07F5CF6E92D8
 13. Enhance Power BI report designs for the user experience | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/XQGHRCKY?sharingId=E67E07F5CF6E92D8
-
+14. Build Power BI Visuals and Reports | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/W257A8TN?sharingId=E67E07F5CF6E92D8
+15. Design Effective Reports in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/VJWBK28M?sharingId=E67E07F5CF6E92D8
 
 
 **|Learning Path   |  Link|**
