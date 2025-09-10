@@ -27,6 +27,19 @@ The **PL-300** certification validates skills in data preparation, modeling, vis
 13. Enhance Power BI report designs for the user experience | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/XQGHRCKY?sharingId=E67E07F5CF6E92D8
 14. Build Power BI Visuals and Reports | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/W257A8TN?sharingId=E67E07F5CF6E92D8
 15. Design Effective Reports in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/VJWBK28M?sharingId=E67E07F5CF6E92D8
+16. Create DAX Calculations In Semantic Models | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/QSX23D7E?sharingId=E67E07F5CF6E92D8
+17. Use DAX Time Intelligence Functions In Semantic Models | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/BCZKANGD?sharingId=E67E07F5CF6E92D8
+18. Optimise Model For Performance In Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/QSYFG8BE?sharingId=E67E07F5CF6E92D8
+19. Modify DAX Filter Context In Semantic Models | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/QSYRCKXE?sharingId=E67E07F5CF6E92D8
+20. Create Dashbords in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/FMCH3BJX?sharingId=E67E07F5CF6E92D8
+21. Secure Data Access In Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/FMCFTNQX?sharingId=E67E07F5CF6E92D8
+22. Manage Semantic Models in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/7KWRH6CZ?sharingId=E67E07F5CF6E92D8
+23. Manage Workspaces in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/D9MKPKAJ?sharingId=E67E07F5CF6E92D8
+24. Choose Content Distribution Method | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/4GZ4HE5K?sharingId=E67E07F5CF6E92D8
+25. Model Data in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/JUP6DD5T?sharingId=E67E07F5CF6E92D8
+26. Explore Data in Power BI | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/URGNY6S3?sharingId=E67E07F5CF6E92D8
+27. Understand Concepts od Data Analytics | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/URGX5WQ3?sharingId=E67E07F5CF6E92D8
+28. Create And Manage Power BI Assets | https://learn.microsoft.com/api/achievements/share/en-us/TamukaMarega-9336/BCPH8HYD?sharingId=E67E07F5CF6E92D8
 
 
 **|Learning Path   |  Link|**
@@ -52,7 +65,7 @@ The **PL-300** certification validates skills in data preparation, modeling, vis
 
 ## 🏆 Certification Goal
 
-Target Exam Date: **August 2025**
+Target Exam Date: **September 2025**
 
 Microsoft PL-300 Certification: https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate
 
