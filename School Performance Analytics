@@ -1,0 +1,121 @@
+# 📊 School Performance Analytics – Power BI Dashboard
+
+## 📌 Project Overview
+This project is a **Power BI analytics solution** designed for a fictional secondary school with 1,000 students across Forms 1–4.  
+It provides actionable insights for:
+- **Headmaster** → whole school performance
+- **Heads of Departments (HODs)** → subject benchmarking
+- **Class Teachers** → class-level monitoring
+- **Parents & Students** → individual academic profiles
+
+👉 The solution demonstrates how **student marks, grades, and attendance data** can be transformed into a professional, interactive dashboard for decision-making.
+
+---
+
+## 🗂️ Data Model
+Two synthetic datasets were created:
+
+1. **Scores Dataset**  
+   - Core subjects: Mathematics, English, Shona, History, Science, Geography  
+   - Stream-specific subjects: Commerce, Literature, Physics, etc.  
+   - Practical subjects: Computer Science, Fashion & Fabrics, etc.  
+   - Grading system:  
+     - A = 80+  
+     - B = 70–79  
+     - C = 60–69  
+     - D = 50–59  
+     - E = 40–49  
+     - F < 40  
+
+   Extra: **Grade Points (1–6)** assigned to each grade to compute GPA-like averages.
+
+2. **Attendance Dataset**  
+   - 90 days (3 months) daily records  
+   - Status = Present / Absent / Late  
+   - Linked to Students via `Student ID`
+
+---
+
+## 🧮 Key Metrics
+- **Pass/Fail Rule** → Students with 5+ Cs are considered to have passed.  
+- **Grade Point Average (GPA)** → Quality measure of passes.  
+- **Pass Rate %** → % of students meeting the 5C+ benchmark.  
+- **Subject vs School Gap** → How each subject compares to school average.  
+- **Attendance Rate %** → Student engagement metric.  
+
+---
+
+## 📊 Dashboard Walkthrough
+
+### 📍 Page 1 – School Overview (Headmaster)
+**Visuals:**
+- KPI Cards → Pass Rate %, School GPA, Top & Weakest Subject
+- Scatter Plot → Class Pass Rate % vs Class GPA
+- Heatmap → Subjects × Classes with average GPA
+- Grade Distribution → School-wide count of A–F
+
+**Sample Insight:**  
+> School GPA is 2.74 (average of D), with an 62.6% pass rate. Ndebele leads with GPA 3.6, while Science lags at 3.2. Class 3B has a high pass rate but low GPA → many borderline passes.
+
+---
+
+### 📍 Page 2 – Class Dashboard (Teachers)
+**Visuals:**
+- Class KPIs → Pass Rate %, GPA, Top & Bottom Student
+- Student Ranking Table → Names, GPA, Pass/Fail, Rank
+- Bar Chart → Student GPAs in descending order
+- Grade Distribution → Spread of A–F within the class
+
+**Sample Insight:**  
+> Form 2C GPA is 3.2 with 63.8% pass rate. Top student “Tariro M. (5.8 GPA)” excels, while “Student X (2.5 GPA)” needs intervention. Most grades are clustered at C.
+
+---
+
+### 📍 Page 3 – Subject Dashboard (HODs)
+**Visuals:**
+- KPI Cards → Subject GPA, School GPA, Gap to School, Pass Rate %
+- Grade Distribution → A–F breakdown for subject
+- Bar Chart → Classes vs Subject GPA
+- Top 10 Students Table → Best performers in subject
+
+**Sample Insight:**  
+> Mathematics GPA is 3.4 (below school avg. 3.9), with a pass rate of 76%. Class 4A performs strongest (4.6), while Class 2B struggles (2.9). Focus interventions on Form 2 early.
+
+---
+
+### 📍 Page 4 – Student Profile (Drillthrough)
+**Visuals:**
+- Info Card → Name, Class, GPA, Rank, Pass/Fail, Attendance %
+- Radar Chart → GPA across all subjects
+- Bar Chart → Subject-wise GPA
+- Line Chart → Attendance trend over 3 months
+
+---
+
+## 🎯 Key KPIs
+- **Pass Rate %** → How many students meet the 5C+ rule  
+- **Average GPA** → Quality of grades beyond simple pass/fail  
+- **Benchmark Gap** → Subject GPA vs School GPA  
+- **Attendance Rate %** → Correlation between presence and performance  
+
+---
+
+## 📈 Strategic Value
+- **Headmaster** → School-wide decision-making  
+- **HODs** → Identify weak subjects & classes to target  
+- **Teachers** → Monitor class performance & support weaker students  
+- **Parents/Students** → Personalized performance and attendance profiles  
+
+---
+
+## 🚀 Next Steps
+- Automate refresh from exam & attendance systems  
+- Add continuous assessment & behavioral records  
+- Deploy via Power BI Service with role-based dashboards  
+
+---
+
+## 📷 Screenshots
+_Add screenshots here once dashboards are ready (use GitHub `images/` folder or embed via markdown)._  
+
+Example:
